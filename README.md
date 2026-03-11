@@ -1,0 +1,1 @@
+# trilha-net-cartoes-copilot-desafio
