@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\bin\Debug\net10.0\CardBrandDetector.exe
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\bin\Debug\net10.0\CardBrandDetector.deps.json
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\bin\Debug\net10.0\CardBrandDetector.runtimeconfig.json
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\bin\Debug\net10.0\CardBrandDetector.dll
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\bin\Debug\net10.0\CardBrandDetector.pdb
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.sourcelink.json
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.dll
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\refint\CardBrandDetector.dll
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.pdb
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\CardBrandDetector.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Projetos\trilha-net-cartoes-copilot-desafio\src\CardBrandDetector\obj\Debug\net10.0\ref\CardBrandDetector.dll
